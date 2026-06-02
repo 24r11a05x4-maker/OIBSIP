@@ -1,13 +1,14 @@
-Task 1 - Landing Page
-Nourish Right Landing Page
+# Task 1 - Landing Page
+
+# Nourish Right Landing Page
 A simple landing page developed using HTML,CSS and JavaScript.
 
-Features
+# Features
 .Responsive navigation menu
 .About section
 .Contact information toggle
 
-Technologies Used
+# Technologies Used
 -HTML
 -CSS
 -JavaScript
