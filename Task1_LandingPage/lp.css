@@ -1,0 +1,128 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-image: url("image/ing.jpg");
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.main_menu{
+    max-width:100%;
+}
+ul{
+list-style-type:none;
+float: right;
+margin-top:40px;
+margin-right: 20px;
+}
+ul li{
+    display: inline-block;
+border:1px solid black;
+}
+ul li a{
+    color:white;
+    text-decoration: none;
+    display: block;
+    padding:5px;
+}
+ul li a:hover{
+    background-color: green;
+    color:black;
+    transition: 0.6s ease;
+}
+.active{
+    background-color: green;
+    color:black;
+}
+.logo img{
+    margin-top: 20px;
+    margin-left: 20px;
+    width:120px;
+    height:auto;
+}
+.logo img:hover{
+    opacity:0.8;
+}
+.center_text{
+    margin-top:180px;
+    text-align:center;
+}
+#about,#contact-info{
+    padding:50px;
+    text-align: center;
+}
+#about h2,#contact-info h2{
+    margin-bottom: 20px;
+}
+#about p{
+    max-width: 700px;
+    margin:auto;
+    line-height: 25px;
+}
+
+#contact-info{
+    display:none;
+    text-align:center;
+    padding:20px;
+    background-color:white
+    ;
+    width:300px;
+    margin:20px auto;
+    border:1px solid lightgrey;
+    border-radius:10px;
+}
+#services{
+    padding:40px;
+    text-align: center;
+}
+#services p{
+    margin:10px;
+}
+.center_text p{
+    color:black;
+    margin-bottom: 20px;
+}
+p{
+    color:black;
+}
+h1{
+    color:black;
+    font-size: 50px;
+}
+footer{
+    background-color: lightgreen;
+    text-align: center;
+    padding: 15px;
+}
+#btn1{
+    border:1px solid black;
+    color:black;
+    padding:5px;
+    text-decoration: none;
+    margin: 10px;
+}
+#btn2{
+    border:1px solid black;
+    color:black;
+    padding:8px;
+    text-decoration: none;
+    margin:10px;
+}
+#btn1:hover{
+    background-color: green;
+    color:black;
+    transition: 0.6s ease;
+}
+#btn2:hover{
+    background-color: green;
+    color:black;
+    transition: 0.6s ease;
+}
+#btn1,#btn2{
+    display:inline-block;
+}
