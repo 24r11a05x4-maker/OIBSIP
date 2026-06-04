@@ -1,14 +1,18 @@
-# Temperatue Converter
+# OIBSIP Web Development and Designing Internship – Task 3
 
-A web application that converts temperatures between different units.
+# Project Title: Temperature Converter
 
-# Features
--Celsius to Fahrenheit
--Fahrenheit to Celsius
--Kelvin conversion
--Input validation
+This project is a temperature conversion application developed using HTML, CSS, and JavaScript. It allows users to convert temperature values between Celsius, Fahrenheit, and Kelvin.
 
-# Technologies Used
--HTML
--CSS
--JavaScript
+## Features:
+• User-friendly interface
+• Celsius to Fahrenheit conversion
+• Fahrenheit to Celsius conversion
+• Kelvin conversion support
+• Input validation for accurate results
+
+## Technologies Used:
+• HTML
+• CSS
+• JavaScript
+
