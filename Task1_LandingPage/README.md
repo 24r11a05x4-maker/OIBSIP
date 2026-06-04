@@ -1,14 +1,18 @@
-# Task 1 - Landing Page
+# OIBSIP Web Development and Designing Internship – Task 1
 
-# Nourish Right Landing Page
-A simple landing page developed using HTML,CSS and JavaScript.
+## Project Title: Landing Page – Nourish Right
 
-# Features
-.Responsive navigation menu
-.About section
-.Contact information toggle
+This project is a simple landing page developed using HTML, CSS, and JavaScript. The website is designed for a nutrition and wellness business named "Nourish Right".
 
-# Technologies Used
--HTML
--CSS
--JavaScript
+# Features:
+• Responsive landing page design
+• Navigation menu
+• About Us section
+• Contact section
+• Interactive buttons
+• Clean and user-friendly interface
+
+# Technologies Used:
+• HTML
+• CSS
+• JavaScript
