@@ -1,15 +1,16 @@
-# Personal Portfolio
+# OIBSIP Web Development and Designing Internship – Task 2
 
-A portfolio website showcasing my skills and learning journey in web development.
+# Project Title: Personal Portfolio Website
 
-# Features
-.Home section
-.About section
-.Skills section
-.Contact section
-.Social media icons
+This project is a personal portfolio website created using HTML and CSS. The website presents basic information about me, my skills, projects, and professional interests in web development.
 
-# Technologies Used
--HTML
--CSS
--JavaScript
+## Features:
+• Personal introduction section
+• Navigation menu
+• Profile image section
+• Social media icons
+• Clean and simple portfolio layout
+
+## Technologies Used:
+• HTML
+• CSS
